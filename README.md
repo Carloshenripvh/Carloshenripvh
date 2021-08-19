@@ -1,7 +1,7 @@
 ### Salve! Eu sou o Carlos Araújo <img align="center" alt="carlos-spider" height="60" width="80" src="https://media1.giphy.com/media/eNSP7RDZeV3rSkNVXZ/source.gif">
 <a href="https://github.com/Carloshenripvh
 ">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carloshenripvh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Carloshenripvh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carloshenripvh&layout=compact&langs_count=8&theme=dracula"/>
 <div>
 <div style="display: inline_block"><br>
